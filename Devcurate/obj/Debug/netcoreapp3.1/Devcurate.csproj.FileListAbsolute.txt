@@ -1,0 +1,9 @@
+C:\Users\Natthakhon.la\source\repos\Devcurate\Devcurate\bin\Debug\netcoreapp3.1\Devcurate.deps.json
+C:\Users\Natthakhon.la\source\repos\Devcurate\Devcurate\bin\Debug\netcoreapp3.1\Devcurate.dll
+C:\Users\Natthakhon.la\source\repos\Devcurate\Devcurate\bin\Debug\netcoreapp3.1\Devcurate.pdb
+C:\Users\Natthakhon.la\source\repos\Devcurate\Devcurate\obj\Debug\netcoreapp3.1\Devcurate.csprojAssemblyReference.cache
+C:\Users\Natthakhon.la\source\repos\Devcurate\Devcurate\obj\Debug\netcoreapp3.1\Devcurate.AssemblyInfoInputs.cache
+C:\Users\Natthakhon.la\source\repos\Devcurate\Devcurate\obj\Debug\netcoreapp3.1\Devcurate.AssemblyInfo.cs
+C:\Users\Natthakhon.la\source\repos\Devcurate\Devcurate\obj\Debug\netcoreapp3.1\Devcurate.csproj.CoreCompileInputs.cache
+C:\Users\Natthakhon.la\source\repos\Devcurate\Devcurate\obj\Debug\netcoreapp3.1\Devcurate.dll
+C:\Users\Natthakhon.la\source\repos\Devcurate\Devcurate\obj\Debug\netcoreapp3.1\Devcurate.pdb

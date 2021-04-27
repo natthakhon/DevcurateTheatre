@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devcurate", "Devcurate\Devcurate.csproj", "{4962F8C6-C785-4FD7-9D81-FA5D34A8DC53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devcurate.Test", "Devcurate.Test\Devcurate.Test.csproj", "{028248B1-4F02-47EE-B6FA-80CB76D4B60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4962F8C6-C785-4FD7-9D81-FA5D34A8DC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4962F8C6-C785-4FD7-9D81-FA5D34A8DC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4962F8C6-C785-4FD7-9D81-FA5D34A8DC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4962F8C6-C785-4FD7-9D81-FA5D34A8DC53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{028248B1-4F02-47EE-B6FA-80CB76D4B60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028248B1-4F02-47EE-B6FA-80CB76D4B60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028248B1-4F02-47EE-B6FA-80CB76D4B60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028248B1-4F02-47EE-B6FA-80CB76D4B60D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAC9BF7B-7F5F-476B-B386-DB7EDA7F8FF3}
+	EndGlobalSection
+EndGlobal
